@@ -1,0 +1,1 @@
+C:\Users\darknetteam\Downloads\QuasarRAT-master\Server.Tests\obj\Release\Server.Tests.csprojResolveAssemblyReference.cache
