@@ -1,0 +1,5 @@
+C:\Users\darknetteam\Downloads\QuasarRAT-master\Bin\Release\Client.exe
+C:\Users\darknetteam\Downloads\QuasarRAT-master\Client\obj\x86\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\darknetteam\Downloads\QuasarRAT-master\Client\obj\x86\Release\xClient.Properties.Resources.resources
+C:\Users\darknetteam\Downloads\QuasarRAT-master\Client\obj\x86\Release\Client.csproj.GenerateResource.Cache
+C:\Users\darknetteam\Downloads\QuasarRAT-master\Client\obj\x86\Release\Client.exe
